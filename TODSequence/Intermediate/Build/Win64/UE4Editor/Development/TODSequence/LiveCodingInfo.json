@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TODSequence.cpp.obj": [
+			"TODData.cpp.obj",
+			"TODSequence.cpp.obj",
+			"TODSequenceAsset.cpp.obj",
+			"TODSequenceCommands.cpp.obj",
+			"TODSequenceStyle.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TODSequence-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\NeteaseTA\UnrealSource\UnrealEngine-4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"E:\NeteaseTA\UnrealProject\Plugin_cpp\Plugins\TODSequence\Intermediate\Build\Win64\UE4Editor\Development\TODSequence\Module.TODSequence.cpp.obj"
+"E:\NeteaseTA\UnrealSource\UnrealEngine-4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"E:\NeteaseTA\UnrealProject\Plugin_cpp\Plugins\TODSequence\Intermediate\Build\Win64\UE4Editor\Development\TODSequence\UE4Editor-TODSequence-0001.lib"
+/INCLUDE:IMPLEMENT_MODULE_TODSequence
